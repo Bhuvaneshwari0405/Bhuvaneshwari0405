@@ -1,10 +1,10 @@
-# 👋 Hello, I'm [Bhuvaneshwari C]!
+# 👋 Hello, I'm Bhuvaneshwari C!
 
 ### 💻 About Me
-- 🌱 Currently learning: [MySQL, React, MongoDB]
+- 🌱 Currently learning: MySQL, React, MongoDB
 - 💼 Open to work/internships: Yes!
-- 👨‍💻 Skills: [Python, HTML, CSS, JavaScript, MySQL]
-- ⚡ Fun fact: [Something interesting about you!]
+- 👨‍💻 Skills: Python, HTML, CSS, JavaScript, MySQL
+<!--- ⚡ Fun fact: --> 
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258/)
@@ -20,14 +20,15 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🏆 Achievements
-- 🎖️ Completed [Getting Started with Data Analytics on AWS](https://coursera.org) course
-- 🎖️ Completed [Getting Started with Figma](https://coursera.org) course
+- 🎖️ WE Scholar 2023
+- 🎖️ Second Prize in Paper presentation
+  
+
 <!-- Add more as needed -->
 
 ### 📫 How to Reach Me
 - Email: [bhuvanachinnaduri@gmail.com](mailto:bhuvanachinnaduri@gmail.com)
 
-## Hi there 👋
 
 <!--
 **Bhuvaneshwari0405/Bhuvaneshwari0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
