@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Bhuvaneshwari C!
 
+<p align="center">
+  <!-- Animated badges -->
+  <img src="https://komarev.com/ghpvc/?username=Bhuvaneshwari0405&color=brightgreen&style=plastic" alt="Visitor Badge" />
+  <img src="https://img.shields.io/github/followers/Bhuvaneshwari0405?style=social" alt="GitHub Followers Badge" />
+  <img src="https://img.shields.io/github/stars/Bhuvaneshwari0405?style=social" alt="GitHub Stars Badge" />
+</p>
 ### 💻 About Me
 - 🌱 Currently learning: MySQL, React, MongoDB
 - 💼 Open to work/internships: Yes!
@@ -7,6 +13,7 @@
 <!--- ⚡ Fun fact: --> 
 
 ### 🔗 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanachinnaduri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258/)
 
 ### 🛠️ Tools & Technologies
@@ -28,6 +35,22 @@
 
 ### 📫 How to Reach Me
 - Email: [bhuvanachinnaduri@gmail.com](mailto:bhuvanachinnaduri@gmail.com)
+
+### 📊 *Dynamic GitHub Stats:*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari0405&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhuvaneshwari0405&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
+### 🏆 *GitHub Trophies:*
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwari0405&theme=radical&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 
 
 <!--
