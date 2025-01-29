@@ -1,73 +1,81 @@
-# 👋 Hello, I'm Bhuvaneshwari C!
-
-<p align="center">
-  <!-- Animated badges -->
-  <img src="https://komarev.com/ghpvc/?username=Bhuvaneshwari0405&color=brightgreen&style=plastic" alt="Visitor Badge" />
-  <img src="https://img.shields.io/github/followers/Bhuvaneshwari0405?style=social" alt="GitHub Followers Badge" />
-  <img src="https://img.shields.io/github/stars/Bhuvaneshwari0405?style=social" alt="GitHub Stars Badge" />
-</p>
-### 💻 About Me
-- 🌱 Currently learning: MySQL, React, MongoDB
-- 💼 Open to work/internships: Yes!
-- 👨‍💻 Skills: Python, HTML, CSS, JavaScript, MySQL
-<!--- ⚡ Fun fact: --> 
-
-### 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanachinnaduri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258/)
-
-### 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-<!-- Add more tools based on your skills -->
-
-<!--### 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
-
-### 🏆 Achievements
-- 🎖️ WE Scholar 2023
-- 🎖️ Second Prize in Paper presentation
-  
-
-<!-- Add more as needed -->
-
-### 📫 How to Reach Me
-- Email: [bhuvanachinnaduri@gmail.com](mailto:bhuvanachinnaduri@gmail.com)
-
-### 📊 *Dynamic GitHub Stats:*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari0405&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<!-- Banner -->
+<h1 align="center">
+  <span style="font-size: 35px; font-weight: bold; color: #F4A261;">👋 Hello, I'm Bhuvaneshwari C!</span>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhuvaneshwari0405&theme=tokyonight" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-### 🏆 *GitHub Trophies:*
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🚀+Passionate+about+Web+Tech!;🌱+Currently+learning+React+and+MongoDB;💡+Love+Solving+Real+World+Problems" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwari0405&theme=radical&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=Bhuvaneshwari0405&color=FF69B4&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Bhuvaneshwari0405?style=flat-square&color=00C8FF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Bhuvaneshwari0405?style=flat-square&color=FFD700" alt="GitHub Stars" />
 </p>
 
+---
 
+## 🌟 **About Me**  
+🎓 **Aspiring Full Stack Developer** with expertise in building **responsive web applications**.  
+🌱 **Currently learning:** React, MongoDB, Laravel.
+💡 **Open for:** Internships, freelance projects, and collaborations!  
+🚀 **Interests:** Web Development, Backend Engineering, Open Source.  
 
-<!--
-**Bhuvaneshwari0405/Bhuvaneshwari0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔗 **Connect with Me**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:bhuvanachinnaduri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bhuvaneshwari0405">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 **Achievements**
+🎖️ **WE Scholar 2023**  
+🏅 **Second Prize in Paper Presentation**  
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari0405&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhuvaneshwari0405&theme=gruvbox" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=gruvbox&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏅 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwari0405&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📬 **How to Reach Me**  
+📧 **Email:** [bhuvanachinnaduri@gmail.com](mailto:bhuvanachinnaduri@gmail.com)  
+🔗 **LinkedIn:** [Bhuvaneshwari Chinnadurai](https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258/)  
+📍 **Location:** Tamilnadu, India  
+
