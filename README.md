@@ -62,7 +62,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhuvaneshwari0405&theme=gruvbox" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=gruvbox&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=gruvbox&layout=compact" alt="Top Languages" />
 </p>
 
 ---
