@@ -15,7 +15,7 @@
 
 ## 🌟 **About Me**  
 🎓 **Aspiring Full Stack Developer** with expertise in building **responsive web applications**.  
-🌱 **Currently learning:** React, MongoDB, Laravel.
+🌱 **Currently learning:** MERN Stack and Laravel.
 💡 **Open for:** Internships, freelance projects, and collaborations!  
 🚀 **Interests:** Web Development, Backend Engineering, Open Source.  
 
@@ -51,8 +51,12 @@
 ---
 
 ## 🏆 **Achievements**
-🎖️ **WE Scholar 2023**  
+🎖️ **WE Scholar 2023**
+
+🔬 **Member of Technology Innovation Hub**
+
 🏅 **Second Prize in Paper Presentation**  
+
 
 ---
 
@@ -60,10 +64,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwari0405&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhuvaneshwari0405&theme=gruvbox" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Bhuvaneshwari0405&theme=gruvbox" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=gruvbox&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwari0405&theme=gruvbox&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
