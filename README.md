@@ -17,7 +17,7 @@
 🎓 **Aspiring Full Stack Developer** with expertise in building **responsive web applications**.  
 🌱 **Currently learning:** MERN Stack and Laravel.
 💡 **Open for:** Internships, freelance projects, and collaborations!  
-🚀 **Interests:** Web Development, Backend Engineering, Open Source.  
+🚀 **Interests:** Full Stack Development, Backend Engineering, Open Source.  
 
 ---
 
@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
